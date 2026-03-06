@@ -4,7 +4,7 @@ title: "Home"
 author_profile: true
 ---
 
-## Hi, I'm Yong Yue Ong 👋
+## Hi, I'm Ong Yong Yue
 
 Welcome to my portfolio website.
 
