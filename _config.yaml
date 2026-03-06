@@ -1,11 +1,13 @@
-title: Ong Yong Yue
-description: Software Engineering Projects and Portfolio
+title: "Yong Yue"
+description: "Software Engineering Projects and Portfolio"
 
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
 
+# Force dark mode
+minimal_mistakes_skin: "dark"
 palette:
   scheme: dark
 
