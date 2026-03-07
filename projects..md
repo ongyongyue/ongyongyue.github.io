@@ -9,7 +9,8 @@ author_profile: true
 
 Below are some projects I have built.
 
-**smoothOperators**  Github:https://github.com/rico-987/Orbital-7264-smoothOperators  
+**smoothOperators**  
+[Code](https://github.com/rico-987/Orbital-7264-smoothOperators)  
 This was my team's submission for Project Gemini part of NUS School of Computing's Orbital Programme.
 Over the courrse of a summer my team designed and built an app using React-Native. The app is centered around public transportation and addresses common problems faced by daily commuters and those unfamiliar with Singapore's public transport. We built our app using publically available APIs provided by Government Agencies. Additionally we implemented basic database features to store user information and preferences  
 We implemented features such as:
@@ -26,6 +27,7 @@ Below are screenshots of our Application and Poster:
 <img src="/assets/images/7264.png">
 </div>
 
-**Holiday**  Github:https://github.com/ongyongyue/ip  
+**Holiday**  
+[Code](https://github.com/ongyongyue/ip)  
 Holiday was my assignment for a Software Engineering module. It is a simple Command-Line-Interface(CLI) chatbot that you interact with to keep track of tasks. It supports memory and basic commands like adding a task, removing it, marking a task as done, unmarking a task. This assignment was to familiarise students with common SWE practices such as the iterative process and using git to manage our workflow. It was built with Java and modules such as Gradle and JavaFX.   
 <img src="/assets/images/holiday.png" width="500">
