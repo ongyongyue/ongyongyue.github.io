@@ -18,8 +18,10 @@ We implemented features such as:
 - **Bus Timings**: Display Bus Timings at selected Bus Stops
 - **Favourites**: Main user-specific lists of Bus Stops and Alarms  
 Below are screenshorts of our Application and Poster:
-
-<img src="/assets/images/image.png" width="250">
-<img src="/assets/images/image1.png" width="250">
+<div align="center">
+<img src="/assets/images/image.png" width="500">
+<img src="/assets/images/image1.png" width="500">
 <img src="/assets/images/image2.png" width="250">
 <img src="/assets/images/image3.png" width="250">
+<img src="/assets/images/7264.png">
+</div>
