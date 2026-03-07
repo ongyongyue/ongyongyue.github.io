@@ -26,10 +26,13 @@ Below are screenshots of our Application and Poster:
 <img src="/assets/images/image3.png" width="250">
 <img src="/assets/images/7264.png">
 </div>  
-
+<br>
+<br>
   
 
 **Holiday**  
 [Code](https://github.com/ongyongyue/ip)  
 Holiday was my assignment for a Software Engineering module. It is a simple Command-Line-Interface(CLI) chatbot that you interact with to keep track of tasks. It supports memory and basic commands like adding a task, removing it, marking a task as done, unmarking a task. This assignment was to familiarise students with common SWE practices such as the iterative process and using git to manage our workflow. It was built with Java and modules such as Gradle and JavaFX.   
+<div align="center">
 <img src="/assets/images/holiday.png" width="500">
+</div>
