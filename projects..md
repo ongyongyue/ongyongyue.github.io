@@ -5,10 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Projects
+## Featured Projects
+Below are some projects I have built.  
 
-Below are some projects I have built.
+**Neural Network** 
+My First Neural Network project, I just used tensor flow and the public available database of hand written numbers to create my own model to predict integers based on 28x28 pixel images. This was to mainly familiarize myself with tensorflow and start on my other neural network projects.  
+<div align="center">
+<img src="/assets/images/neural.png">
+<img src="/assets/images/neural1.png">
 
+</div>
+<br>
+<br>
+  
 **smoothOperators**  
 [Code](https://github.com/rico-987/Orbital-7264-smoothOperators)  
 This was my team's submission for Project Gemini part of NUS School of Computing's Orbital Programme.
