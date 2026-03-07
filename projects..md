@@ -25,7 +25,9 @@ Below are screenshots of our Application and Poster:
 <img src="/assets/images/image2.png" width="250">
 <img src="/assets/images/image3.png" width="250">
 <img src="/assets/images/7264.png">
-</div>
+</div>  
+
+  
 
 **Holiday**  
 [Code](https://github.com/ongyongyue/ip)  
