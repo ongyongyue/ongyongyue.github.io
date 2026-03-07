@@ -12,10 +12,12 @@ author_profile: true
 - Software Engineering
 - Object-Oriented Programming
 - Database Systems
+- Information Security
 
 ### Mathematics
 - Linear Algebra
-- Probability and Statistics
+- Probability
+- Statistics
 - Discrete Mathematics
 - Calculus
 
