@@ -8,8 +8,8 @@ author_profile: true
 ## Featured Projects
 Below are some projects I have built.  
 
-**Neural Network** 
-[View Project](https://github.com/ongyongyue/probable-eureka)
+**Neural Network**   
+[View Project](https://github.com/ongyongyue/probable-eureka)  
 My First Neural Network project, I just used tensor flow and the public available database of hand written numbers to create my own model to predict integers based on 28x28 pixel images. This was to mainly familiarize myself with tensorflow and start on my other neural network projects.  
 <div align="center">
 <img src="/assets/images/neural.png">
