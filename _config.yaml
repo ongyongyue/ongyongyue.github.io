@@ -2,7 +2,7 @@ title: "Yong Yue"
 description: "Software Engineering Projects and Portfolio"
 
 author:
-  name: "Yong Yue Ong"
+  name: "Ong Yong Yue"
   avatar: "/assets/images/profile1.png"
   bio: "Software Engineering student interested in building practical applications."
   location: "Singapore"
@@ -14,8 +14,8 @@ author:
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOURPROFILE"
-      
+      url: "https://linkedin.com/in/yong-yue-ong-4870b0319" 
+
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
