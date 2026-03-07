@@ -27,24 +27,23 @@ I am always looking for opportunities to grow, contribute, and make a meaningful
 .btn {
   display: inline-block;
   padding: 12px 24px;
-  background-color: #ffffff;   /* White button */
-  color: #2c9de9;              /* Blue text */
+  background-color: #2c9de9;   /* Blue by default */
+  color: #ffffff;              /* White text */
   font-size: 16px;
   font-weight: bold;
   text-decoration: none;
   border-radius: 12px;
-  border: 2px solid #2c9de9;  /* Blue border */
+  border: 2px solid #2c9de9;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
 }
 
 .btn:hover {
-  background-color: #2c9de9;  /* Fills blue on hover */
-  color: #ffffff;             /* Text turns white on hover */
+  background-color: #ffffff;  /* White on hover */
+  color: #2c9de9;             /* Blue text on hover */
 }
 </style>
 </div>
-
 <div align="center">
 
  🛠 Tech Stack
