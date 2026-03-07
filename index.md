@@ -23,24 +23,24 @@ I am always looking for opportunities to grow, contribute, and make a meaningful
   Personal Resume
 </a>
 
-<!-- CSS for styling the button -->
 <style>
 .btn {
   display: inline-block;
-  padding: 12px 24px;      /* Space inside the button */
-  background-color: #2c9de9; /* Green color */
-  color: white;            /* Text color */
+  padding: 12px 24px;
+  background-color: #ffffff;   /* White button */
+  color: #2c9de9;              /* Blue text */
   font-size: 16px;
   font-weight: bold;
-  text-decoration: none;   /* Remove underline */
-  border-radius: 12px;     /* Rounded corners */
-  border: none;
+  text-decoration: none;
+  border-radius: 12px;
+  border: 2px solid #2c9de9;  /* Blue border */
   cursor: pointer;
-  transition: background-color 0.3s;
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .btn:hover {
-  background-color: #2c9de9; /* Slightly darker on hover */
+  background-color: #2c9de9;  /* Fills blue on hover */
+  color: #ffffff;             /* Text turns white on hover */
 }
 </style>
 </div>
