@@ -19,7 +19,7 @@ My current focus lies in Cybersecurity, Data Science, and AI. I've invested in t
 I am always looking for opportunities to grow, contribute, and make a meaningful impact through technology.
 
 <div align="center">
-<a href="files/YourCV.pdf" target="_blank" class="btn">
+<a href="files/Resume.pdf" target="_blank" class="btn">
   Personal Resume
 </a>
 
