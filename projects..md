@@ -8,14 +8,14 @@ author_profile: true
 ## Featured Projects
 Below are some projects I have built.  
 
-**Neural Network**   
-[View Project](https://github.com/ongyongyue/probable-eureka)  
-My First Neural Network project, I just used tensor flow and the public available database of hand written numbers to create my own model to predict integers based on 28x28 pixel images. This was to mainly familiarize myself with tensorflow and start on my other neural network projects.  
-<div align="center">
-<img src="/assets/images/neural.png">
-<img src="/assets/images/neural1.png">
+**Machine Learning**
+[View Project](https://github.com/ongyongyue/Shopee-ML)
 
-</div>
+As part of a self-directed machine learning project, I built an end-to-end multimodal product matching pipeline based on the Shopee Product Matching Kaggle competition, which challenges participants to identify duplicate e-commerce listings across 34,000 products using both image and text data. My solution involved fine-tuning EfficientNet B3 and multilingual BERT with ArcFace metric learning loss to cluster similar products tightly together while pushing dissimilar ones apart using Cosine Similarity Search and using the checksums to verify if they are the same items. Ultimately, my solution falls short of the winning solutions but I am proud of how far I've managed to push my model's performance and managing to keep its run time below 2 hours. This project helped me practice using packages like pytorch to form models 
+
+<div align="center">
+<img src="/assets/images/ML.png">
+</div>  
 <br>
 <br>
   
@@ -46,3 +46,14 @@ Holiday was my assignment for a Software Engineering module. It is a simple Comm
 <div align="center">
 <img src="/assets/images/holiday.png" width="500">
 </div>
+
+**Machine Learning**
+[View Project](https://github.com/ongyongyue/Shopee-ML)
+
+As part of a self-directed machine learning project, I built an end-to-end multimodal product matching pipeline based on the Shopee Product Matching Kaggle competition, which challenges participants to identify duplicate e-commerce listings across 34,000 products using both image and text data. My solution involved fine-tuning EfficientNet B3 and multilingual BERT with ArcFace metric learning loss to cluster similar products tightly together while pushing dissimilar ones apart using Cosine Similarity Search and using the checksums to verify if they are the same items. Ultimately, my solution falls short of the winning solutions but I am proud of how far I've managed to push my model's performance and managing to keep its run time below 2 hours. This project helped me practice using packages like pytorch to form models 
+
+<div align="center">
+<img src="/assets/images/ML.png">
+</div>  
+<br>
+<br>
