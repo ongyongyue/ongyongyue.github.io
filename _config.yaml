@@ -1,0 +1,35 @@
+title: "Yong Yue"
+description: "Software Engineering Projects and Portfolio"
+
+author:
+  name: "Ong Yong Yue"
+  avatar: "/assets/images/profile3.jpg"
+  bio: "Computer Science student eager for practical experience"
+  location: "Singapore"
+
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ongyongyue"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yong-yue-ong-4870b0319" 
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+# Force dark mode
+minimal_mistakes_skin: "dark"
+palette:
+  scheme: dark
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
