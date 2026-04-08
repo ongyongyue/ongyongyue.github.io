@@ -19,6 +19,24 @@ As part of a self-directed machine learning project, I built an end-to-end multi
 <br>
 <br>
 
+**SQL Injection Visualizer**
+[View Project](https://github.com/ongyongyue/Injection-Visual)
+
+As part of a self-directed web security project, I built an interactive SQL injection visualizer using Python, Flask, and SQLite to demonstrate how insecure database queries can be exploited. The application simulates a login system with both vulnerable and secure modes, allowing users to experiment with crafted inputs and observe how SQL queries are constructed and executed in each case.
+
+By exposing the difference between raw string concatenation and parameterized queries, the project highlights how common injection attacks bypass authentication and how proper input handling prevents them. I also implemented a simple front-end interface to make the injection process more intuitive and educational for users without a security background.
+
+This project helped me strengthen my understanding of backend web development, database interactions, and secure coding practices, while also giving me hands-on experience building and structuring a Flask application. 
+
+<div align="center">
+<img src="/assets/images/SQLI_1.png">
+<img src="/assets/images/SQLI_2.png">
+<img src="/assets/images/SQLI_3.png">
+</div>  
+<br>
+<br>
+
+
   
 **smoothOperators**  
 [View Project](https://github.com/rico-987/Orbital-7264-smoothOperators)  
@@ -58,3 +76,4 @@ My First Neural Network project, I just used tensor flow and the public availabl
 </div>
 <br>
 <br>
+
